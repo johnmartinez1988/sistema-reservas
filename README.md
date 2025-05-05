@@ -34,8 +34,10 @@ Este backend está implementado utilizando FastAPI, una base de datos SQLite, y 
     ```
     docker-compose up --build
     ```
-    # Si tienes problemas al ejecutar este comando, intenta con el siguiente:
-    # docker compose up --build
+### Si tiene problemas al ejecutar este comando, intenta con el siguiente:
+    ```
+    docker compose up --build
+    ```
 
 4.  La API estará disponible en `http://localhost:8000`.
 
